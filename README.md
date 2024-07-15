@@ -1,16 +1,11 @@
-# flutter_phonepe_payment
+# PhonePe Integration
 
-A new Flutter project.
+To integrate PhonePe payment gateway with your Flutter application, you can follow these steps:
 
-## Getting Started
+## Important Links
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Create a PhonePe Account](https://www.phonepe.com/business-solutions/payment-gateway/register/) to start using their business solutions.
+- Use the [PhonePe Business Login](https://business.phonepe.com) to access your business account.
+- Integrate the PhonePe payment SDK in your Flutter app using the [PhonePe Flutter Package](https://pub.dev/packages/phonepe_payment_sdk/).
+- Refer to the [Official PhonePe Guide](https://developer.phonepe.com/v1/docs/flutter-sdk-integration/) for detailed integration steps.
+- Use the [Test Credentials](https://developer.phonepe.com/v1/docs/uat-testing/) to test your integration in a UAT environment.
